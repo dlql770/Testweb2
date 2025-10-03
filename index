@@ -99,6 +99,7 @@
   storageBucket: "test-44a2e.firebasestorage.app",
   messagingSenderId: "1071019900877",
   appId: "1:1071019900877:web:7668649a25874b36784e84",
+  measurementId: "G-1T1SX8RKWW"
 };
     
     const ACTIVE_USER_STORAGE_KEY = 'miniTwitterActiveUser';
